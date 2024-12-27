@@ -9,7 +9,7 @@
 
 # Introduction to GitHub
 
-**Test Edit**
+**Test Edit 2**
 
 _Get started using GitHub in less than an hour._
 
